@@ -7,10 +7,9 @@ body {
 .header {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
-
-    padding: 1em 128px;
+    padding: 1em 192px;
     margin: 0;
+    justify-content: space-between;
 }
 
 .logo {
@@ -34,6 +33,38 @@ body {
     color: #E5E7EB;
 }
 
+.section-one {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    padding: 64px 192px;
+    gap: 4em;
+}
+
+.main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin: 0;
+}
+
+.secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 8px 0;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    font-size: 18px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 600;
+    padding: 8px 32px;
+    margin-top: 8px;
+}
+
 img {
-    width: 400px;
+    width: 350px;
 }
