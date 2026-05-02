@@ -44,7 +44,6 @@ body {
 .main-text {
     font-size: 48px;
     color: #F9FAF8;
-    font-weight: 900;
     margin: 0;
 }
 
@@ -67,4 +66,11 @@ button {
 
 img {
     width: 350px;
+}
+
+.info-box {
+    width: 150px;
+    height: 150px;
+    border: 2px solid #3882F6;
+    border-radius: 16px;
 }
