@@ -35,8 +35,11 @@ body {
     align-items: center;
 }
 
-.links a {
+a {
     text-decoration: none;
+}
+
+.links a {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -66,10 +69,11 @@ body {
 }
 
 .section-one .secondary-text {
-    margin: 8px 0;
+    margin: 8px 0 24px 0;
 }
 
-button {
+.section-one a {
+    border: none;
     background-color: #3882F6;
     border-radius: 8px;
     font-size: 18px;
@@ -77,11 +81,6 @@ button {
     font-weight: 600;
     padding: 8px 32px;
     flex: none;
-}
-
-.section-one button {
-    border: none;
-    margin-top: 8px;
 }
 
 .section-one img {
@@ -178,8 +177,15 @@ h2 {
     margin: 4px 0 0 0;
 }
 
-.section-four button {
+.section-four a {
     border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 8px;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 600;
+    padding: 8px 32px;
+    flex: none;
 }
 
 .footer {
