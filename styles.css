@@ -46,19 +46,19 @@ body {
     gap: 4em;
 }
 
-.main-text {
+.section-one .main-text {
     font-size: 48px;
     color: #F9FAF8;
     margin: 0;
 }
 
-.secondary-text {
+.section-one .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
     margin: 8px 0;
 }
 
-button {
+.section-one button {
     background-color: #3882F6;
     border: none;
     font-size: 18px;
