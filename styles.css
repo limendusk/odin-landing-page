@@ -110,3 +110,28 @@ h2 {
     border: 4px solid #3882F6;
     border-radius: 16px;
 }
+
+.section-three {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    padding: 128px 192px;
+    gap: 12px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    margin: 0;
+}
+
+.quote-author {
+    font-size: 24px;
+    font-weight: bold;
+    align-self: flex-end;
+    padding: 0 32px;
+    margin: 0;
+}
