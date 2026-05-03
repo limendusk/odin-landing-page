@@ -103,6 +103,7 @@ h2 {
 }
 
 .info {
+    max-width: 960px;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
@@ -127,6 +128,13 @@ h2 {
 
 .info-text {
     font-size: 18px;
+}
+
+.section-two img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
 }
 
 .section-three {
