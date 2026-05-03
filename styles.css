@@ -62,7 +62,7 @@ body {
     background-color: #3882F6;
     border: none;
     font-size: 18px;
-    color: #FFFFFF;
+    color: #F9FAF8;
     border-radius: 8px;
     font-weight: 600;
     padding: 8px 32px;
@@ -134,4 +134,37 @@ h2 {
     align-self: flex-end;
     padding: 0 32px;
     margin: 0;
+}
+
+.section-four {
+    padding: 96px 192px;
+}
+
+.section-four .container {
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 48px 96px;
+}
+
+.section-four .main-text {
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.section-four .secondary-text {
+    color: #E5E7EB;
+    margin: 4px 0 0 0;
+}
+
+.section-four button {
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    font-weight: 600;
+    padding: 8px 32px;
+    flex: none;
 }
