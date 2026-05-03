@@ -148,6 +148,7 @@ h2 {
 }
 
 .quote {
+    min-width: 400px;
     width: 75%;
     font-size: 36px;
     color: #1F2937;
