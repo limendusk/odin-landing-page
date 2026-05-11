@@ -8,3 +8,4 @@ This project was built as a learning exercise to practice using common CSS prope
 ## Credits
 - Yorushika (ヨルシカ) Logo by Yorushika (ヨルシカ), sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yorushika_Logo.jpg), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 - All album artwork © Yorushika / Universal Music Japan. Used for non-commercial fan purposes only.
+- Band description sourced from [Yorushika - Wikipedia](https://en.wikipedia.org/wiki/Yorushika), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
